@@ -1,0 +1,17 @@
+:root(
+    --primary: #42b983;
+    --secundary: #2e4469;
+    --background: #35495e;
+    --black-text: rgb(61, 61, 61);
+    --white-text: #ffffff;
+    --button-hover: #38755a;
+
+	);
+
+*(
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: boder-box;
+)
