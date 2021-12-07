@@ -1,4 +1,4 @@
-:root(
+.root{
     --primary: #42b983;
     --secundary: #2e4469;
     --background: #35495e;
@@ -6,12 +6,16 @@
     --white-text: #ffffff;
     --button-hover: #38755a;
 
-	);
+	};
 
-*(
+.title{
+  color: red;
+}
+
+*{
   margin: 0;
   padding: 0;
   text-decoration: none;
   list-style: none;
   box-sizing: boder-box;
-)
+}
